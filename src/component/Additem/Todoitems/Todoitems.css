@@ -1,0 +1,16 @@
+.to div{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border: 2px solid #FFF;
+}
+.to div span
+{
+    border-right: 2px solid #000;
+    padding: 0 50px;
+    width: calc(100% /3);
+}
+.to .span p{
+    text-align: center;
+    border: 2px solid #FFF;
+}

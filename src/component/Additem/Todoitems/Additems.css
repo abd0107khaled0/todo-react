@@ -1,0 +1,11 @@
+.listitems{
+    width: 100%;
+    display: flex;
+}
+.listitems form{
+    display: flex;
+    width: 100%;
+}
+.listitems form input{
+    width: calc(100% / 3);
+}
